@@ -1,0 +1,1 @@
+<a href="{{route('admin.voter.edit',$notification->data['thread']['id'])}}">{{$notification->data['thread']['name']}} needs to be approved.</a>

@@ -1,0 +1,14 @@
+{
+    "name": "Nominee",
+    "alias": "nominee",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Nominee\\Providers\\NomineeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
